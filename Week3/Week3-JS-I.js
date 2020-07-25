@@ -1,9 +1,9 @@
-"use strict";
+'use strict';
 
 //In these first 6 questions, replace `null` with the answer
 
 //1. create a string variable, it can contain anything
-const newString = "Dana";
+const newString = 'Dana';
 
 //2. create a number variable, it an be any number
 const newNum = 23;
@@ -177,7 +177,7 @@ function combineNames(firstName, lastName) {
 function getGreeting(name) {
   // Take the name string and concatenate other strings onto it so it takes the following form:
   // 'Sam' -> 'Hello Sam!'
-  return "Hello " + name + "!";
+  return 'Hello ' + name + '!';
 }
 // The next three questions will have you implement math area formulas.
 // If you can't remember these area formulas then head over to Google.
