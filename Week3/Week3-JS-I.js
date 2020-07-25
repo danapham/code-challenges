@@ -163,22 +163,22 @@ function roundUp(num) {
 function addExclamationPoint(str) {
   // add an exclamation point to the end of str and return the new string
   // 'hello world' -> 'hello world!'
-  return `${str}!`
+  return `${str}!`;
 }
 
 // 25
 function combineNames(firstName, lastName) {
   // return firstName and lastName combined as one string and separated by a space.
   // 'NSS', 'Bootcamp' -> 'NSS Bootcamp'
-  return `${firstName} ${lastName}`
-  }
+  return `${firstName} ${lastName}`;
+}
 
 // 26
 function getGreeting(name) {
   // Take the name string and concatenate other strings onto it so it takes the following form:
   // 'Sam' -> 'Hello Sam!'
-  return "Hello " + name + "!"}
-
+  return "Hello " + name + "!";
+}
 // The next three questions will have you implement math area formulas.
 // If you can't remember these area formulas then head over to Google.
 
